@@ -1,0 +1,41 @@
+# Empty CSS file for your own CSS
+
+#banner		{
+			image-rendering: auto;
+			position: center;
+			width: 95%;
+			}
+
+#grad 		{
+			background: linear-gradient(#0d2c5d, #ffffff);
+			background-attachment: fixed;
+			}
+
+#tab 		{
+			background-color: #f0f8ff;
+			border-color: black;
+			border-style: solid;
+			border-width: 2px;
+			border-radius: 10px;
+			padding: 1%;
+			}
+
+#profile	{
+			border-style: solid;
+			border-width: 1px;
+			border-color: #0d2c5d;
+			image-rendering: auto;
+			float: left;
+			width: 20%;
+			margin: 5%;
+			}
+
+#lucas		{
+			border-style: solid;
+			border-width: 1px;
+			border-color: #0d2c5d;
+			image-rendering: auto;
+			float: right;
+			width: 50%;
+			margin: 5%;
+			}
